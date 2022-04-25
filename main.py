@@ -8,7 +8,7 @@ def additoin(x, y):
 
 additoin(10, 20)
 
-#Logical Errors
+#sntax Errors
 
   
 
